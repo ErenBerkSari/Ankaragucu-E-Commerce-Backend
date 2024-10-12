@@ -9,7 +9,6 @@ const userRoute = require("./routes/userRoute");
 const productRoute = require("./routes/productRoute");
 const categoryRoute = require("./routes/categoryRoute");
 const cartRoute = require("./routes/cartRoute");
-//wogi keah mdjk uzzt
 
 dotenv.config();
 
